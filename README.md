@@ -403,7 +403,7 @@
             clientSection.style.display = 'block';
             clientAccommodationNotice.style.display = 'block';
 
-            requesterNameLabel.textContent = 'Name';
+            requesterNameLabel.textContent = 'Requester Name';
             agencyGroup.style.display = 'none';
             titleGroup.style.display = 'none';
 

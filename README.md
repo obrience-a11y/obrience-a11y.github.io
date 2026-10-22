@@ -285,7 +285,7 @@
 
             <!-- LEO Specific Notice: Video Records -->
             <div id="leoVideoNotice" class="info-box" style="display: none;">
-                If your request includes preservation of video records please contact our records team at <a href="mailto:cja-records@larimer.org">cja-records@larimer.org</a>.
+                If your request includes preservation of video records please contact our records team at <a href="mailto:cjarecords@co.larimer.co.us">cjarecords@co.larimer.co.us</a>.
             </div>
 
             <!-- Client Specific Section: Identity Verification -->
@@ -352,7 +352,7 @@
 
             <!-- Client Accommodation Notice -->
             <div id="clientAccommodationNotice" class="footer-section" style="display: none;">
-                If you need ADA accommodation or cannot complete this request form please contact Community Justice Alternatives at 970.980.2600 or contact <a href="mailto:cja-records@larimer.org">cja-records@larimer.org</a>.
+                If you need ADA accommodation or cannot complete this request form please contact Community Justice Alternatives at 970.980.2600 or contact <a href="mailto:cjarecords@co.larimer.co.us">cjarecords@co.larimer.co.us</a>.
             </div>
 
             <button type="submit" class="submit-btn">Submit Request</button>
